@@ -1,10 +1,16 @@
-# SerialPortTerminal
-Serial Port Debug Tool, C#, winform. 串口调试工具，由C#语言，Winform库实现
-![preview](/image/ui.png)
+# serial_port_terminal
 
-下载: https://github.com/vimcaw/SerialPortTerminal/releases
+Serial Port Debug Tool
 
-Download: https://github.com/vimcaw/SerialPortTerminal/releases
+## Getting Started
 
-# LICENSE
-MIT
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
