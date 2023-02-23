@@ -1,0 +1,5 @@
+{
+  "appName": "SerialPortTerminal",
+  "countTip": "You have pushed the button this many times: ",
+  "buttonDescription": "Increment"
+}
